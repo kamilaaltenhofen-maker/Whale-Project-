@@ -1,5 +1,0 @@
-notepad .gitignore
-bin/
-.vscode/
-*.class
-out/

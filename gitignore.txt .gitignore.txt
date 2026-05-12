@@ -1,0 +1,6 @@
+gitignore.txt .gitignore
+bin/
+.vscode/
+out/
+lib/
+.sixth/
